@@ -1,0 +1,44 @@
+body {
+    background-image: url("https://i.pinimg.com/736x/d3/f2/43/d3f243845df1f7ce95797878a93a1daf.jpg");
+    font-family: sans-serif;
+}
+.login{
+    width: 450px;
+    height: 500px;
+    text-align: center;
+    border: 1px solid grey;
+    border-radius: 10px;
+    margin: 30px auto;
+    background-color: white;
+}
+
+.enter{
+    width: 250px;
+    height: auto;
+    border: 1px solid #167bff;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    margin-left: auto;
+    margin-right: auto;
+}
+button{
+    width: 300px;
+    height: 40px;
+    background-color: darkorange;
+    border: darkorange;
+    border-radius: 5px;
+    color: white;
+}
+.enter input{
+    border: none;
+    outline: none;
+    height: 40px;
+    width: 200px;
+    padding-left: 20px;
+}
+.enter img{
+    width: 20px;
+    vertical-align: middle;
+}
+
+
